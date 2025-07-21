@@ -13,7 +13,7 @@
 
 ## 🧠 About Me
 
-I'm a passionate **Full Stack Developer** with a strong focus on:
+I'm a passionate **Full Stack Developer** with a focus on:
 
 - ✅ Back-end development using **PHP & Symfony**
 - ✅ Front-end experiences with **React & JavaScript (ES6+)**
