@@ -1,8 +1,3 @@
-<!-- Profile Header Image -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/yourusername/yourusername/main/assets/header.png" alt="banner" width="100%" />
-</p>
-
 <h1 align="center">Hi there 👋, I'm Kanikainathan Jerrinald</h1>
 
 <p align="center">
