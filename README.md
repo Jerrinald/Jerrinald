@@ -52,6 +52,6 @@ I'm a passionate **Full Stack Developer** with a strong focus on:
 | Project | Description | Tech |
 |--------|-------------|------|
 | 🧠 **Flag Quiz** | Secure full-stack quiz platform using encrypted score tracking | Symfony, API Platform, React, Docker, JWT |
-| 📦 **Symfony gist** | Symfony app to manage gifts to offer | Symfony, Javascript, Docker |
+| 📦 **Symfony gifts** | Symfony app to manage gifts to offer | Symfony, Javascript, Docker |
 
 
