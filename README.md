@@ -6,7 +6,7 @@
 <h1 align="center">Hi there 👋, I'm Kanikainathan Jerrinald</h1>
 
 <p align="center">
-  🚀 Full Stack Engineer | 💻 PHP & Symfony | ⚛️ React | 🐳 Docker Enthusiast
+  🚀 Full Stack Engineer | 💻 PHP & Symfony | ⚛️ React | 🐳 Docker
 </p>
 
 <p align="center">
